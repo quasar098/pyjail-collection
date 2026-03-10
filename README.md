@@ -113,3 +113,5 @@ make github issue if a ctf has some good pyjails and they should be added here
 |monochromatic|b01lers CTF 2025|todo|
 |evaldle|UMDCTF 2025|todo|
 |Comments Only|UIUCTF 2025|python3 detecting file as zip and running it (zipimporter) abuse|
+|yaps|DiceCTF 2026|pickle/cpickle divergence in py3.15+ bc of dict/array memo in cpickle|
+|pytecoding|DiceCTF 2026|COPY out of bounds x bytecode golf|
